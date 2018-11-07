@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Digital Clock</string>
+    <string name="colon">:</string>
+    <string name="am">AM</string>
+    <string name="pm">PM</string>
+    <string name="none">nothing</string>
+    <string name="button_setting">setting</string>
+    <string name="hour_clock">24 Hour Clock</string>
+    <string name="previous">previous</string>
+    <string name="time_zone">Time Zone</string>
+    <string name="clock_color">Clock Color</string>
+
+</resources>
+
